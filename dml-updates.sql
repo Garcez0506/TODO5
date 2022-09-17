@@ -1,0 +1,1 @@
+SELECT * FROM vitrine_virtual.produtos;
